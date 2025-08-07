@@ -1,4 +1,4 @@
-# 📋 bash-ini-parser
+# 📋 Bash INI Parser
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 [![Author](https://img.shields.io/badge/author-Marcel%20Gr%C3%A4fen-green.svg)](https://mgraefen.com)
@@ -255,10 +255,10 @@ fi
 
   * **Marcel Gräfen**
   * 📧 [info@mgraefen.com](mailto:info@mgraefen.com)
-  * 🌐 [https://mgraefen.com](https://mgraefen.com)
+  <!-- * 🌐 [https://mgraefen.com](https://mgraefen.com) -->
 
 -----
 
 ## 📜 Lizenz
 
-[MIT Lizenz](https://opensource.org/licenses/MIT)
+[MIT Lizenz](LICENSE)
