@@ -27,6 +27,7 @@ A robust and modular Bash library for parsing INI files. It provides functions t
     * [`find_and_parse_ini`](#find_and_parse_ini)
     * [`load_ini_config`](#load_ini_config)
 * [👤 Author & Contact](#-author--contact)
+* [🤖 Generation Notice](#-generation-notice)
 * [📜 License](#-license)
 
 ---
@@ -255,6 +256,12 @@ fi
 
   * **Marcel Gräfen**
   * 📧 [info@mgraefen.com](mailto:info@mgraefen.com)
+
+-----
+
+## 🤖 Generation Notice
+
+This project was developed with the help of an Artificial Intelligence (AI). The AI assisted in creating the script, comments, and documentation (README.md). The final result was reviewed and adjusted by me.
 
 -----
 

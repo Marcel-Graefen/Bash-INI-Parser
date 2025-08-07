@@ -29,6 +29,7 @@ Eine robuste und modulare Bash-Bibliothek zum Parsen von INI-Dateien. Sie bietet
       * [`find_and_parse_ini`](#find_and_parse_ini)
       * [`load_ini_config`](#load_ini_config)
   * [👤 Autor & Kontakt](#-autor--kontakt)
+  * [🤖 Generierungshinweis](#-generierungshinweis)
   * [📜 Lizenz](#-lizenz)
 
 -----
@@ -261,6 +262,13 @@ fi
   * **Marcel Gräfen**
   * 📧 [info@mgraefen.com](mailto:info@mgraefen.com)
   <!-- * 🌐 [https://mgraefen.com](https://mgraefen.com) -->
+
+
+---
+
+## 🤖 Generierungshinweis
+
+Dieses Projekt wurde mithilfe einer Künstlichen Intelligenz (KI) entwickelt. Die KI hat bei der Erstellung des Skripts, der Kommentare und der Dokumentation (README.md) geholfen. Das endgültige Ergebnis wurde von mir überprüft und angepasst.
 
 -----
 
