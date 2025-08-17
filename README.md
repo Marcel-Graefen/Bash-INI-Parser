@@ -1,11 +1,10 @@
 # 📋 Bash INI Parser
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Marcel-Graefen/Bash-INI-Parser/releases/tag/1.0.0)
 [![German](https://img.shields.io/badge/Language-German-blue)](./README.de.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel-Graefen/Bash-INI-Parser)
 [![Author](https://img.shields.io/badge/author-Marcel%20Gr%C3%A4fen-green.svg)](#-author--contact)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
-![](https://komarev.com/ghpvc/?username=Marcel-Graefen)
 
 A robust and modular Bash library for parsing INI files. It provides functions to safely load and retrieve configuration values.
 
